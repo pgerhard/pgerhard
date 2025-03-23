@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Contact Me
+If you want to get in touch, just send a message at [pgerhard_dev@icloud.com](mailto:pgerhard_dev@icloud.com)
